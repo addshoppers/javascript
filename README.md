@@ -182,7 +182,7 @@ Other Style Guides
 
     ```javascript
     // bad
-    var name = "Bob Parr';
+    var name = 'Bob Parr';
 
     // good
     var name = "Bob Parr";
